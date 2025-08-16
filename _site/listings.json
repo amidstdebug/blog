@@ -2,18 +2,14 @@
   {
     "listing": "/posts/index.html",
     "items": [
-      "/posts/test/hello.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/bayesian-theory-of-mind/index.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/posts/test/hello.html",
       "/posts/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/bayesian-theory-of-mind/index.html"
     ]
   }
 ]
