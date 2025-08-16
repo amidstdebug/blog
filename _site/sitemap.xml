@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://blog.jwong.dev/about.html</loc>
-    <lastmod>2025-08-16T12:07:59.111Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.jwong.dev/posts/index.html</loc>
-    <lastmod>2025-08-16T12:09:46.081Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.jwong.dev/posts/test/hello.html</loc>
-    <lastmod>2025-08-16T12:07:59.111Z</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.jwong.dev/posts/post-with-code/index.html</loc>
-    <lastmod>2025-08-16T12:07:59.111Z</lastmod>
+    <lastmod>2025-08-16T12:27:59.211Z</lastmod>
   </url>
   <url>
     <loc>https://blog.jwong.dev/posts/welcome/index.html</loc>
-    <lastmod>2025-08-16T12:07:59.111Z</lastmod>
+    <lastmod>2025-08-16T12:27:59.212Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.jwong.dev/posts/test/hello.html</loc>
+    <lastmod>2025-08-16T12:27:59.212Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.jwong.dev/posts/post-with-code/index.html</loc>
+    <lastmod>2025-08-16T12:27:59.211Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.jwong.dev/posts/index.html</loc>
+    <lastmod>2025-08-16T12:27:59.211Z</lastmod>
   </url>
   <url>
     <loc>https://blog.jwong.dev/index.html</loc>
-    <lastmod>2025-08-16T12:09:47.509Z</lastmod>
+    <lastmod>2025-08-16T12:27:59.211Z</lastmod>
   </url>
 </urlset>

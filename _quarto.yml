@@ -20,13 +20,13 @@ website:
         href: https://twitter.com
   page-footer:
     center: |
-      © {{< meta year >}} Justin
+      © {{< meta year >}} Justin JH Wong
 
 format:
   html:
     theme:
       light: zephyr
-      dark: slate
+      dark: lux
     css: styles.css
     toc: true
     toc-depth: 3
