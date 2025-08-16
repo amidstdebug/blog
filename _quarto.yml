@@ -9,29 +9,27 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Posts
-        href: posts/index.qmd
-      - text: About
-        href: about.qmd
     right:
-      - icon: github
-        href: https://github.com
-      - icon: twitter
-        href: https://twitter.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/amidstdebug/
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=SRBrkisAAAAJ&hl=en
+      - icon: youtube
+        href: https://www.youtube.com/@justinjhwong
   page-footer:
     center: |
       © {{< meta year >}} Justin JH Wong
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: flatly
     css: styles.css
     toc: true
     toc-depth: 3
     code-copy: true
     number-sections: false
+    filters:
+      - lightbox
 
 metadata-files:
   - _metadata.yml

@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "Justin JH Wong"
 listing:
   contents: posts
   sort: "date desc"
@@ -7,8 +7,19 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
-page-layout: full
-title-block-banner: true
 ---
 
+<div class="hero text-center py-5">
+  <div class="container">
+    <img src="profile.jpg" alt="Profile photo" class="rounded-circle mb-4" width="160" height="160">
+    <h1 class="fw-bold">Justin JH Wong</h1>
+    <p class="lead mx-auto">Exploring academic papers, data science, and software engineering.</p>
+  </div>
+</div>
+
+## About
+
+I'm Justin JH Wong, exploring academic papers, data science, and software engineering.
+
+## Recent Posts
 
