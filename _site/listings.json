@@ -1,8 +1,17 @@
 [
   {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/test/hello.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/test/hello.html",
+      "/posts/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
