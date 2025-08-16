@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://blog.jwong.dev/about.html</loc>
+    <lastmod>2025-08-16T11:46:42.388Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.jwong.dev/posts/welcome/index.html</loc>
+    <lastmod>2025-08-16T11:46:42.386Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.jwong.dev/posts/test/hello.html</loc>
+    <lastmod>2025-08-16T11:51:49.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.jwong.dev/index.html</loc>
+    <lastmod>2025-08-16T11:46:42.386Z</lastmod>
+  </url>
+</urlset>

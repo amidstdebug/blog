@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Justin's Blog"
+  site-url: "https://blog.jwong.dev"
+  description: "Academic papers, Data Science, and Software Engineering."
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Posts
+        href: posts
+      - text: About
+        href: about.qmd
+  page-footer:
+    center: |
+      © {{< meta year >}} Justin
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    number-sections: false
+
+metadata-files:
+  - _metadata.yml

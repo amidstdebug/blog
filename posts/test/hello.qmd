@@ -1,0 +1,18 @@
+---
+title: "Hello world for Quarto"
+description: "First post with math and citations"
+categories: [intro]
+bibliography: ./references.bib
+---
+
+
+This is a test post.
+
+Math inline example: \( e^{i\pi} + 1 = 0 \)
+
+Display math example
+
+$$\int_{0}^{1} x^2 \, dx = \frac{1}{3}$$
+
+Citation example from a BibTeX file named references.bib
+See @knuth1984 and @lamport1994 for background.
