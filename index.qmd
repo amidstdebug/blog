@@ -8,7 +8,15 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
 ---
 
+<section class="hero text-center py-5">
+<div class="container">
+<img src="profile.jpg" alt="Profile photo" class="rounded-circle mb-4" width="160" height="160">
+<h1 class="display-4 fw-bold">Justin JH Wong</h1>
+<p class="lead">Exploring academic papers, data science, and software engineering.</p>
+</div>
+</section>
+
+## Recent Posts
 
