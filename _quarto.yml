@@ -10,16 +10,24 @@ website:
       - text: Home
         href: index.qmd
       - text: Posts
-        href: posts
+        href: posts/index.qmd
       - text: About
         href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com
+      - icon: twitter
+        href: https://twitter.com
   page-footer:
     center: |
       © {{< meta year >}} Justin
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: zephyr
+      dark: slate
+    css: styles.css
     toc: true
     toc-depth: 3
     code-copy: true
