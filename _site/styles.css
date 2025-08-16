@@ -30,3 +30,18 @@ body {
 .listing-grid .card-title {
   font-size: 1.25rem;
 }
+
+/* Hero section */
+.hero {
+  background: linear-gradient(135deg, #e8f0fe 0%, #ffffff 100%);
+}
+
+.hero .display-4 {
+  font-weight: 700;
+}
+
+.hero p.lead {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}

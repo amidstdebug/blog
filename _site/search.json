@@ -7,6 +7,27 @@
     "text": "About this blog"
   },
   {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "All Posts",
+    "section": "",
+    "text": "Bayesian Theory of Mind\n\n\n\n\n\n\ncognitive-science\n\n\nbayesian\n\n\n\nUsing Bayesian inference to reason about beliefs and intentions.\n\n\n\n\n\n14 05 2024\n\n\nJustin JH Wong\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog",
+    "section": "",
+    "text": "Exploring academic papers, data science, and software engineering."
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "blog",
+    "section": "Recent Posts",
+    "text": "Recent Posts"
+  },
+  {
     "objectID": "posts/bayesian-theory-of-mind/index.html",
     "href": "posts/bayesian-theory-of-mind/index.html",
     "title": "Bayesian Theory of Mind",
@@ -26,19 +47,5 @@
     "title": "Bayesian Theory of Mind",
     "section": "Sequential Updates",
     "text": "Sequential Updates\nBayesian agents can repeatedly incorporate new evidence. The snippet below simulates three observations and prints the updated belief after each.\nimport numpy as np\n\nprior = 0.5\ndata = [0.9, 0.7, 0.2]\nfor likelihood in data:\n    prior = likelihood * prior / (likelihood * prior + (1 - likelihood) * (1 - prior))\n    print(prior)\nThese simple calculations demonstrate how Bayesian reasoning can support a theory of mind in artificial agents."
-  },
-  {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "All Posts",
-    "section": "",
-    "text": "Bayesian Theory of Mind\n\n\n\ncognitive-science\n\nbayesian\n\n\n\nUsing Bayesian inference to reason about beliefs and intentions.\n\n\n\n\n\n14 05 2024\n\n\nJustin JH Wong\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "blog",
-    "section": "",
-    "text": "All Posts\n\n\n\n\n\n\n\n\n\nJustin JH Wong\n\n\n\n\n\n\n\n\n\n\n\nBayesian Theory of Mind\n\n\n\ncognitive-science\n\nbayesian\n\n\n\nUsing Bayesian inference to reason about beliefs and intentions.\n\n\n\nJustin JH Wong\n\n\n14 05 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
